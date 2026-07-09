@@ -97,8 +97,6 @@ Model Saving
       ▼
 Streamlit Deployment
 ```
-```
-
 ## 📌 Future Improvements
 
 * Price Trend Visualization
@@ -112,8 +110,6 @@ Streamlit Deployment
 ## 👩‍💻 Author
 
 **Priyanka Das**
-
-Data Analytics & Machine Learning Enthusiast
 
 
 # 6️⃣ Images Folder
