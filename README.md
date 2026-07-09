@@ -1,35 +1,3 @@
-For a **final-year Machine Learning project**, your GitHub repository should look professional and complete. Since your project is **House Price Prediction using Machine Learning**, here is exactly what you should upload.
-
----
-
-# 📁 Project Structure
-
-```
-House-Price-Prediction/
-│
-├── app.py
-├── style.css
-├── house_price_model.pkl
-├── housing.csv
-├── House Price Prediction.ipynb
-├── README.md
-│
-├── images/
-│   ├── home_page.png
-│   ├── prediction.png
-│   ├── dashboard.png
-│
-└── .gitignore
-```
-
----
-
-# 1️⃣ README.md
-
-This is the most important file on GitHub.
-
----
-
 # 🏠 House Price Prediction using Machine Learning
 
 ## 📌 Project Overview
