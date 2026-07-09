@@ -115,28 +115,19 @@ Streamlit Deployment
 
 Data Analytics & Machine Learning Enthusiast
 
----
-
 
 # 6️⃣ Images Folder
 
+## 📸 Application Screenshots
+
 ### Home Page
 
-```
-home_page.png
-```
+![Home Page](images/Home_page.png)
 
-### Prediction
+### Prediction Result
 
-```
-prediction.png
-```
+![Prediction Result](images/Price_prediction.png)
 
-### Dashboard
-
-```
-dashboard.png
-```
 
 ```
 🏠 Machine Learning based House Price Prediction using Random Forest, Scikit-Learn and Streamlit with an interactive modern UI.
