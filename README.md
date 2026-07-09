@@ -106,13 +106,7 @@ Streamlit Deployment
 * User Authentication
 
 ---
-
-## 👩‍💻 Author
-
-**Priyanka Das**
-
-
-# 6️⃣ Images Folder
+## Images Folder
 
 ## 📸 Application Screenshots
 
@@ -128,4 +122,6 @@ Streamlit Deployment
 ```
 🏠 Machine Learning based House Price Prediction using Random Forest, Scikit-Learn and Streamlit with an interactive modern UI.
 ```
+## 👩‍💻 Author
 
+**Priyanka Das**
